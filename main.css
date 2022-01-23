@@ -1,0 +1,16 @@
+#todo-input{
+    border-color: #00b0ffff;
+    background-color: #E1F5FE;
+}
+
+#todo-submit{
+    background-color: #00b0ffff;
+    color: #fff;
+    border-color: #00b0ffff;
+}
+
+#todo-delete-all{
+    background-color: #E57373;
+    border-color: #E57373;
+    color: #fff;
+}
